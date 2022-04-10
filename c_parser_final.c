@@ -1,5 +1,5 @@
 /*********************************************
- * Id: star3567
+ * Id: rogue
  *
  * Compile: gcc -Wall
  * Run: ./a.out [input.txt]
