@@ -4,7 +4,7 @@
  * Compile: gcc -Wall
  * Run: ./a.out [input.txt]
  *
- * Program 3 reads & tokenizes file
+ * 
  *********************************************/
 
 #define MAXTOKEN 256
